@@ -1,4 +1,4 @@
-package com.dataofbank.gsxt.img;
+package com.dataofbank.gsxt;
 
 import java.awt.Color;
 import java.awt.Rectangle;
